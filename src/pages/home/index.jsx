@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import Button from '../../components/Button';
 import Header from '../../components/Header';
 import { TextContent, Title, TitleHighlight, Container } from './styles';
+import banner from './../../assets/image 1.png';
 
 export const Home = () => {
   return (
@@ -26,7 +27,12 @@ export const Home = () => {
             onClick={() => null}
           />
         </div>
-        <div></div>
+        <div>
+          <img
+            src={banner}
+            alt='banner'
+          />
+        </div>
       </Container>
     </div>
   );

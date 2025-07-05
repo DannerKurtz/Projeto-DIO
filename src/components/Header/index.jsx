@@ -9,7 +9,7 @@ import {
   Row,
   Wrapper,
 } from './styles';
-import logo from './../../assets/logo.png';
+import logo from './../../assets/logo-dio 1.png';
 import Button from '../Button';
 
 export default function Header() {
