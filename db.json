@@ -1,16 +1,30 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "teste 1",
       "email": "teste1@exemple.com",
       "password": "123456"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "teste 2",
       "email": "teste2@exemple.com",
       "password": "123456"
+    },
+    {
+      "id": "0e76",
+      "nome": "teste 3",
+      "email": "teste3@exemple.com",
+      "password": "123456",
+      "name": "teste 3"
+    },
+    {
+      "id": "1823",
+      "nome": "teste 3",
+      "email": "teste3@exemple.com",
+      "password": "123456",
+      "name": "teste 3"
     }
   ]
 }
